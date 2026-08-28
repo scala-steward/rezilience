@@ -3,7 +3,7 @@ resolvers += "OSS Snapshots" at "https://oss.sonatype.org/content/repositories/s
 addSbtPlugin("com.github.sbt"     % "sbt-protobuf"             % "0.8.3")
 addSbtPlugin("org.scalameta"      % "sbt-scalafmt"             % "2.6.2")
 addSbtPlugin("org.typelevel"      % "sbt-tpolecat"             % "0.5.7")
-addSbtPlugin("com.eed3si9n"       % "sbt-assembly"             % "2.4.2")
+addSbtPlugin("com.eed3si9n"       % "sbt-assembly"             % "2.5.0")
 addSbtPlugin("org.scala-js"       % "sbt-scalajs"              % "1.22.0")
 addSbtPlugin("org.portable-scala" % "sbt-scalajs-crossproject" % "1.4.0")
 addSbtPlugin("io.shiftleft"       % "sbt-ci-release-early"     % "2.1.15")
